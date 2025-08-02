@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f7fdf8;
+}
+
+header {
+  background: #4caf50;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: white;
+  text-decoration: none;
+}
+
+.hero, main {
+  padding: 2em;
+  text-align: center;
+}
+
+.product {
+  margin-top: 2em;
+}
+
+.product img {
+  width: 200px;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #ddd;
+}
